@@ -1,5 +1,5 @@
 ***Non-English Version (remarks and some variable names are in Slovak language) - sorry mates :)***
-# Basic CRUD operations with MyQSL database using XPO (ORM) in VisualBasic.Net - console application!
+# Basic CRUD operations with MySQL database using XPO (ORM) in VisualBasic.Net - console application!
 
 ## Application for my study purposes in .NET 
 
